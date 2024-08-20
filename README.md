@@ -1,11 +1,5 @@
 # EDtunnel
 
-<p align="center">
-  <img src="https://cloudflare-ipfs.com/ipfs/bafybeigd6i5aavwpr6wvnwuyayklq3omonggta4x2q7kpmgafj357nkcky" alt="edgetunnel" style="margin-bottom: -50px;">
-</p>
-
-[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/zizifn/edgetunnel)
-
 ## available branches and explain
 
 | Branch Name   | Description                                                   |
@@ -121,10 +115,10 @@ The path `/uuid your seetting` to get the clash config and vless:// link.
 
 ## Star History
 
-<a href="https://star-history.com/#3Kmfi6HP/EDtunnel&Date">
+<a href="https://star-history.com/#EDtunnnel/EDtunnel&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=EDtunnnel/EDtunnel&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=EDtunnnel/EDtunnel&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=EDtunnnel/EDtunnel&type=Date" />
   </picture>
 </a>
