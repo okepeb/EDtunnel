@@ -2,7 +2,7 @@ name = "sg-servers" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
-main = "_worker(1).js"
+main = "_worker.js"
 compatibility_date = "2025-12-28"
 [[routes]]
 pattern = "okepeb.web.id"
