@@ -1,9 +1,15 @@
-name = "sg-servers" # todo
+name = "sg-server" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
-compatibility_date = "2023-05-26"
+compatibility_date = "2025-12-28"
+[[routes]]
+pattern = "okepeb.web.id"
+custom_domain = true
+[[routes]]
+pattern = "ava.game.naver.com.okepeb.web.id"
+custom_domain = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
